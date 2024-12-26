@@ -1,0 +1,7 @@
+fastapi
+psycopg2-binary
+python-dotenv
+cryptography
+pytest
+pytest-asyncio
+httpx

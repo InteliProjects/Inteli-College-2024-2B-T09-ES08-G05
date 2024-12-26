@@ -1,0 +1,28 @@
+config.json
+.env
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*__pycache__
+.pytest_cache/
+*.py[cod]
+env/
+**/.venv/
+*.pyc
+*.pyo
+venv/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Outros
+*.lock
+*.tmp
+*.bak
+
